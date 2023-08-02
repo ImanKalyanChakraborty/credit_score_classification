@@ -10,7 +10,7 @@ The following project contains a python script that trains a machine learning mo
 # Brief Description about the Repository files
 
 * archive/ - This directory actually contains the data after preprocessing and cleaning
-* Original_data/ - This directory contains the original data before preprocessing and cleaning
+* Original_data/ - This directory contains the original data before preprocessing and cleaning (data obtained from Kaggle)
 * classificationscript.R - This is the R script that contains all the commands that were executed during the data preprocessing and cleaning
 * Classifier.ipynb - This is the actual file that contains the code for building the machine learning model
 
